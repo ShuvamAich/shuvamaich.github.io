@@ -16,6 +16,7 @@
     },
     "interests": [
       { "name": "Automation" },
+      { "name": "DevOps" },
       { "name": "Web Development" },
       { "name": "Data Analytics" },
       { "name": "Generative AI" }
