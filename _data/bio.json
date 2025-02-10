@@ -30,7 +30,7 @@
       {
         "institution": "University of Stuttgart, Germany",
         "area": "Computer Science (Autonomous Systems)",
-        "studyType": "M.S.",
+        "studyType": "M.S",
         "startDate": "2023-10-01",
         "endDate": "Present",
         "courses": [ "Artificial Intelligence", "Machine Learning", "Computer Vision", "Cloud Computing", "Reinforcement Learning", "Information Management", "Software Engineering", "Embedded Systems" ]
@@ -38,7 +38,7 @@
       {
         "institution": "St. Xavier's College (Autonomous), Kolkata, India",
         "area": "Computer Science",
-        "studyType": "B.S.",
+        "studyType": "B.S",
         "startDate": "2018-06",
         "endDate": "2021-07",
         "courses": [
@@ -71,7 +71,7 @@
         ]
       },
       {
-        "company": "Deloitte Consulting (United States-India",
+        "company": "Deloitte Consulting (United States-India)",
         "position": "Associate Analyst",
         "website": "",
         "startDate": "2021-09-27",
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "name": "Purayan",
+        "company": "Purayan",
         "position": "Front-end Web Development Intern",
         "website": "",
         "startDate": "2021-03",
