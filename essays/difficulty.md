@@ -1,15 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Data Analysis using Python"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2022-07-04
 published: true
 labels:
-  - Engineering
+  - Data Analysis
+  - Python
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/certificates/iitkanpur.png">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
