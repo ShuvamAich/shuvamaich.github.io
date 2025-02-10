@@ -131,13 +131,16 @@
     ],
     "references": [
       {
-        "name": "Yves Boley, Product Owner at Allianz Technology SE"
+        "name": "Yves Boley, Product Owner at Allianz Technology SE",
+          "reference": "Yves Boley was the product owner for Customer Identity and Access Management"
       },
       {
-        "name": "Ashraful Alam, Senior Manager, Deloitte Consulting UK"
+        "name": "Ashraful Alam, Senior Manager, Deloitte Consulting UK".
+          "reference": "Ashraful Alam was my Technical Lead at Deloitte Consulting during my tenure serving for Ford Motor Company. Link: https://www.linkedin.com/in/ashecret"
       },
       {
-        "name": "Nikita Poyrekar, Senior Consultant, Deloitte Consulting South East Asia"
+        "name": "Nikita Poyrekar, Senior Consultant, Deloitte Consulting South East Asia",
+          "reference": "Nikita Poyrekar was my Front-end Lead at Deloitte Consulting during my tenure serving for Ford Motor Company where we collaborated together on the automation activities. Link: https://www.linkedin.com/in/nikitapoyrekar"
       }
     ]
   }
