@@ -6,9 +6,10 @@ title: "Text to Speech Diffusion Model"
 date: 10-2024 to 02-2025
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "Developed a text-to-speech diffusion model to process audio from text data. Fine-tuning the diffusion model using these datasets. Performing an extensive evaluation of the model to determine its efficacy."
+  - Diffusion
+  - Llama3.2
+  - GradTTS
+summary: "Developed a text-to-speech diffusion model to process audio from text data. Fine-tuning the diffusion model using these datasets. Performing an extensive evaluation of the model to determine its efficacy, supervised by Dr. Mojtaba Nayyeri"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
