@@ -1,118 +1,106 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Shuvam Aich",
+    "label": "Student, Developer",
+    "picture": "https://github.com/shuvamaich.png",
+    "email": "shuvamaich10@gmail.com",
+    "phone": "+49 15212625317",
+    "website": "https://shuvamaich.github.io",
+    "summary": "I am studying for a M.S. in Computer Science at the University of Stuttgart. I expect to graduate in March 2026.",
+    "location": { "address": "", "postalCode": "70569", "city": "Stuttgart", "countryCode": "Germany", "region": "Baden Württemberg" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ShuvamAich", "url": "http://github.com/ShuvamAich" },
+      { "network": "linkedin", "username": "shuvam-aich-3495b21a3", "url": "https://www.linkedin.com/in/shuvam-aich-3495b21a3/" }
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Automation" },
+    { "name": "Web Development" },
+    { "name": "Data Analytics" },
+    { "name": "Generative AI" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "Python", "Html/Css", "Git/GitHub", "Tensorflow", "PyTorch", "Cypress.io", "Selenium", "Jenkins", "Jira" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Tools",
+      "keywords": [ "IntelliJ IDEA", "Visual Studio Code", "Eclipse", "Jupyter Notebook", "Postman" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Stuttgart, Germany",
+      "area": "Computer Science (Autonomous Systems)",
+      "studyType": "M.S.",
+      "startDate": "2023-10-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Artificial Intelligence", "Machine Learning", "Software Engineering", "Computer Vision", "Cloud Computing", "Information Management" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Mercedes Benz Tech Innovation GmbH",
+      "position": "Working Student",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Backend Developer and Automation Engineer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Allianz Technology SE",
+      "position": "Working Student",
+      "website": "",
+      "startDate": "2024-01-15",
+      "endDate": "2024-07-15",
+      "summary": "Automation Engineer",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
-      "organization": "",
+      "company": "Deloitte Consulting",
+      "position": "Associate Analyst",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2021-09-27",
+      "endDate": "2023-09-29",
+      "summary": "Automation Engineer and QA Lead for Ford Motor Company",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Spot and Applause Award",
+      "date": "2022, 2023",
+      "awarder": "Deloitte Consulting",
+      "summary": "Award for work accomplished for Ford Motor Company in Automation."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Shooting Competition Winner",
+      "date": "2017",
+      "awarder": "Jr. NBA",
+      "summary": "My team won second place in Jr. NBA Tournament and I won the National Shooting Competition."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Yves Boley",
+      "reference": "Manager, Allianz Technology SE"
+    },
+    {
+      "name": "Ashraful Alam",
+      "reference": "Senior Manager, Deloitte Consulting UK"
+    },
+    {
+      "name": "Nikita Poyrekar",
+      "reference": "Senior Consultant, Deloitte Consulting South East Asia"
     }
   ]
 }
