@@ -4,7 +4,7 @@ type: project
 image: img/project1.png
 title: "Text to Speech Diffusion Model"
 date: 10-2024 to 02-2025
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
