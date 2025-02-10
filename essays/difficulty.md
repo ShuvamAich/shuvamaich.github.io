@@ -9,9 +9,7 @@ labels:
   - Data Analysis
   - Python
 ---
-<div style="text-align: center;">
-  <img class="rounded" src="../img/certificates/iitkanpur.png">
-</div>
+<img src="../img/certificates/iitkanpur.png" class="rounded" style="display: block; margin: 0 auto;">
 
 <br/><br/>
 
