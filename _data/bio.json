@@ -1,106 +1,189 @@
 {
   "basics": {
     "name": "Shuvam Aich",
-    "label": "Student, Developer",
-    "picture": "https://github.com/shuvamaich.png",
+    "label": "Software Developer",
+    "image": "",
     "email": "shuvamaich10@gmail.com",
-    "phone": "+49 15212625317",
-    "website": "https://shuvamaich.github.io",
-    "summary": "I am studying for a M.S. in Computer Science at the University of Stuttgart. I expect to graduate in March 2026.",
-    "location": { "address": "", "postalCode": "70569", "city": "Stuttgart", "countryCode": "Germany", "region": "Baden Württemberg" },
+    "phone": "+4915212625317",
+    "url": "https://www.linkedin.com/in/shuvam-aich-3495b21a3/",
+    "summary": "A software developer with three years of experience specializing in modern JavaScript frameworks in the Fintech and Automotive sectors. Proficient in Automation, DevOps, Quality Assurance, and Front-end Development. Committed to continuous learning and excelling in team settings, with a focus on delivering superior code quality and tackling intricate challenges. Eager to contribute to Generative AI and Data Analytics initiatives.",
+    "location": {
+      "address": "Allmandring 3H",
+      "postalCode": "70569",
+      "city": "Stuttgart",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
+    },
     "profiles": [
-      { "network": "github", "username": "ShuvamAich", "url": "http://github.com/ShuvamAich" },
-      { "network": "linkedin", "username": "shuvam-aich-3495b21a3", "url": "https://www.linkedin.com/in/shuvam-aich-3495b21a3/" }
-      
+      {
+        "network": "LinkedIn",
+        "username": "Shuvam Aich",
+        "url": "https://www.linkedin.com/in/shuvam-aich-3495b21a3/"
+      }
     ]
   },
-  "interests": [
-    { "name": "Automation" },
-    { "name": "Web Development" },
-    { "name": "Data Analytics" },
-    { "name": "Generative AI" }
-  ],
-  "skills": [
+  "work": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Python", "Html/Css", "Git/GitHub", "Tensorflow", "PyTorch", "Cypress.io", "Selenium", "Jenkins", "Jira" ]
+      "name": "Mercedes Benz Tech Innovation",
+      "position": "Working Student",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "UI Automation and API Automation for Vehicle Booking System",
+      "highlights": []
     },
     {
-      "name": "Tools",
-      "keywords": [ "IntelliJ IDEA", "Visual Studio Code", "Eclipse", "Jupyter Notebook", "Postman" ]
+      "name": "Allianz Technologies",
+      "position": "Working Student",
+      "url": "",
+      "startDate": "2024-01",
+      "endDate": "2024-07",
+      "summary": "Automated the Customer Access and Identity Management Portal using Cypress.io with JavaScript and TypeScript.",
+      "highlights": [
+        "Integrated with Jenkins and conducted frontend, backend, and multifactor authentication validation while working in an Agile team."
+      ]
+    },
+    {
+      "name": "Deloitte Consulting",
+      "position": "Associate Analyst",
+      "url": "",
+      "startDate": "2021-09",
+      "endDate": "2023-09",
+      "summary": "Quality Assurance Engineer and Automation Team Lead for the Finance Application Portal of Ford Motor Company.",
+      "highlights": [
+        "Developed Automation Testing Suite using Cypress.io.",
+        "Enhanced testing efficiency by 15% and decreased manual front-end testing by 50%."
+      ]
+    },
+    {
+      "name": "Purayan",
+      "position": "Digital Asset Intern",
+      "url": "",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "summary": "Web development, video editing, and graphic designing.",
+      "highlights": [
+        "Developed the company’s webpage using HTML, CSS, and JavaScript."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Stuttgart, Germany",
+      "institution": "Universität Stuttgart",
+      "url": "",
       "area": "Computer Science (Autonomous Systems)",
-      "studyType": "M.S.",
-      "startDate": "2023-10-01",
+      "studyType": "Master's",
+      "startDate": "2023-10",
       "endDate": "Present",
-      "courses": [ "Artificial Intelligence", "Machine Learning", "Software Engineering", "Computer Vision", "Cloud Computing", "Information Management" ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Mercedes Benz Tech Innovation GmbH",
-      "position": "Working Student",
-      "website": "",
-      "startDate": "2024-09-01",
-      "endDate": "Present",
-      "summary": "Backend Developer and Automation Engineer",
-      "highlights": [
-        ""
-      ]
+      "score": "",
+      "courses": []
     },
     {
-      "company": "Allianz Technology SE",
-      "position": "Working Student",
-      "website": "",
-      "startDate": "2024-01-15",
-      "endDate": "2024-07-15",
-      "summary": "Automation Engineer",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "Deloitte Consulting",
-      "position": "Associate Analyst",
-      "website": "",
-      "startDate": "2021-09-27",
-      "endDate": "2023-09-29",
-      "summary": "Automation Engineer and QA Lead for Ford Motor Company",
-      "highlights": [
-        ""
+      "institution": "St. Xavier's College (Autonomous)",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "2018-06",
+      "endDate": "2021-07",
+      "score": "",
+      "courses": [
+        "Bachelor Thesis: Medical Image Classification using Deep Learning."
       ]
     }
   ],
   "awards": [
     {
-      "title": "Spot and Applause Award",
-      "date": "2022, 2023",
+      "title": "Spot and Applause Awards",
+      "date": "2023-06",
       "awarder": "Deloitte Consulting",
-      "summary": "Award for work accomplished for Ford Motor Company in Automation."
+      "summary": "Achieved major milestones in developing the Automation Test Suite for Ford Finance Application."
     },
     {
-      "title": "Shooting Competition Winner",
-      "date": "2017",
+      "title": "Sports Influencer",
+      "date": "2019-08",
+      "awarder": "Decathlon Sports India",
+      "summary": ""
+    },
+    {
+      "title": "Jr. NBA National Elite Camp Winner",
+      "date": "2015-08",
       "awarder": "Jr. NBA",
-      "summary": "My team won second place in Jr. NBA Tournament and I won the National Shooting Competition."
+      "summary": "Winner of Shooting Competition and Captain of the Jr. NBA National Elite Camp."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "UI Automation using Cypress.io",
+      "date": "",
+      "issuer": "Udemy Business",
+      "url": ""
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "date": "",
+      "issuer": "Andrew Ng",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Self Driving Cars",
+      "publisher": "Pebbles",
+      "releaseDate": "2020",
+      "url": "https://sxccal.edu/magazines",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Automation and Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Cypress.io",
+        "HTML5",
+        "CSS3",
+        "Selenium"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full"
+    },
+    {
+      "language": "German",
+      "fluency": "Limited"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Exploring",
+      "keywords": [
+        "Travel",
+        "Music",
+        "Sports"
+      ]
     }
   ],
   "references": [
     {
       "name": "Yves Boley",
-      "reference": "Manager, Allianz Technology SE"
-    },
+      "reference": "Product Owner at Allianz Technologies."
+    }
+  ],
+  "projects": [
     {
-      "name": "Ashraful Alam",
-      "reference": "Senior Manager, Deloitte Consulting UK"
-    },
-    {
-      "name": "Nikita Poyrekar",
-      "reference": "Senior Consultant, Deloitte Consulting South East Asia"
+      "name": "Driver Activity Detection",
+      "startDate": "",
+      "endDate": "",
+      "description": "Extended classification models to detect driver activities in continuous video streams.",
+      "highlights": [
+        "Supervised by Jun.-Prof. Dr. Alina Roitberg."
+      ]
     }
   ]
 }
