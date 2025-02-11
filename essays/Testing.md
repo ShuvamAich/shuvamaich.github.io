@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Complete 2021 Software Testing Bootcamp"
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-09
+date: 2021-09-10
 published: true
 labels:
   - Function Testing
