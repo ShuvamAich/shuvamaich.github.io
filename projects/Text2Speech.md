@@ -16,4 +16,4 @@ summary: "Developed a text-to-speech diffusion model to process audio from text 
 
 We have developed a text-to-speech diffusion model to process audio from text data. We performed fine-tuning the diffusion model using the dataset from IIT Madras and performed an extensive evaluation of the model to determine its efficacy.
 
-To give you a flavor of the game, here is an excerpt from one run:
+
