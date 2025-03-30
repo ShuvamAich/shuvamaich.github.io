@@ -57,7 +57,9 @@
         "endDate": "Present",
         "summary": "Backend Developer and Automation Engineer",
         "highlights": [
-          "UI and API Automation for Vehicle Booking System, currently working on Test data encryption"
+          "UI and API Automation for Vehicle Booking System", 
+          "Test data encryption using Crypto-JS",
+          "Debugging and Resolving Regression and Smoke Test Failures on EDU and INT for different markets"
         ]
       },
       {
@@ -69,7 +71,7 @@
         "summary": "Automation Engineer",
         "highlights": [
           "Automated the Customer Access and Identity Management Portal with Cypress.io using JavaScript and TypeScript.",
-          "integrated with Jenkins, and conducted frontend, backend, multifactor authentication validation while working in an Agile Team"
+          "Integrated with Jenkins, and conducted frontend, backend, multifactor authentication validation while working in an Agile Team"
         ]
       },
       {
