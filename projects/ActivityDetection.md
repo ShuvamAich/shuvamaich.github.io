@@ -26,4 +26,6 @@ Some of our approaches yielded very high training accuracies i.e 88-89% however 
 
 This was my best approach LSTM_with_more_inputs.ipynb with more data manipulations however it resulted in the training accuracy of 64% showing negligible improvement. I do not consider my approach 100% correct as I was also trying to experiment with the data and the models.
 
+This project received the highest grade in the course Machine Perception Learning at University of Stuttgart for the Winter Semester 2024.  
+
 The partial project can be found in [Github](https://github.com/ShuvamAich/Temporal-Driver-Activity-Detection)
