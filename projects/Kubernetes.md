@@ -13,6 +13,7 @@ summary: "Getting Started with Kubernetes"
 
 <img class="img-fluid" src="../img/kubernetesBanner.png">
 
-
+<h1>Pre-Requisites</h1>
+<h2>Docker</h2>
 
 The project can be found in [Github](https://github.com/ShuvamAich/KUBE-MERN)
