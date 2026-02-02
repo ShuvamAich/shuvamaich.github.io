@@ -6,7 +6,7 @@
       "email": "shuvamaich10@gmail.com",
       "phone": "+49 15212625317",
       "website": "https://shuvamaich.wixsite.com/myblogs",
-      "summary": "A software developer with three years of experience specializing in modern JavaScript frameworks in the Fintech and Automotive sectors. Proficient in Automation, DevOps, Quality Assurance, and Front-end Development. Committed to continuous learning and excelling in team settings, with a focus on delivering superior code quality and tackling intricate challenges. Eager to contribute to Generative AI and Data Analytics initiatives. I am studying for a M.S. in Computer Science at the University of Stuttgart. I expect to graduate in March 2026.",
+      "summary": "A test automation engineer with four years of experience specializing in modern frameworks in the Fintech and Automotive sectors. Proficient in Automation, DevOps, Quality Assurance, and Front-end Development. Committed to continuous learning and excelling in team settings, with a focus on delivering superior code quality and tackling intricate challenges. Eager to contribute to Generative AI and Data Analytics initiatives. I am studying for a M.S. in Computer Science at the University of Stuttgart. I expect to graduate in March 2026.",
       "location": { "address": "St. Georgen Str. 17, Zimmer T411", "postalCode": "75175", "city": "Pforzheim", "countryCode": "Germany", "region": "Baden Württemberg" },
       "profiles": [
         { "network": "github", "username": "ShuvamAich", "url": "http://github.com/ShuvamAich" },
@@ -25,7 +25,7 @@
     "skills": [
       {
         "name": "Tools and Frameworks",
-        "keywords": [ "Automation", "Java", "Javascript", "Python", "Html5", "CSS3", "Git/GitHub", "PyTorch", "Cypress.io", "Selenium", "Jenkins", "Jira", "Eclipse", "IntelliJ IDEA", "Functional Testing", "Percy.io", "Visual Regression Testing", "Quality Assurance", "SQL", "Gherkin", "Cucumber", "Allure", "API Automation", "Bruno", "Diffusion Models", "Deep Learning", "Data Visualization" ]
+        "keywords": [ "Automation", "Java", "Javascript", "Python", "Html5", "CSS3", "Git/GitHub", "PyTorch", "Cypress.io", "Selenium", "Jenkins", "Jira", "Eclipse", "IntelliJ IDEA", "Functional Testing", "Percy.io", "Visual Regression Testing", "Quality Assurance", "SQL", "Gherkin", "Cucumber", "Allure", "API Automation", "Bruno", "Diffusion Models", "Deep Learning", "Data Visualization", "Playwright" ]
       }
     ],
     "education": [
