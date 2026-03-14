@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/project3.png
 title: "Chest X-Ray Annalysis using Convoluted Neural Networks"
-date: 11-2020 to 05-2021
+date: 05-2021
 published: true
 labels:
   - Deep Learning

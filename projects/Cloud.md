@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/project4.png
 title: "Cloud Retail: A Robust Online Shopping Ecosystem using Salesforce"
-date: 10-2023 to 02-2024
+date: 02-2024
 published: true
 labels:
   - Salesforce

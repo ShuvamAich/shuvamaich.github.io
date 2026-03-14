@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/project6.png
 title: "Playwright Automation Projects"
-date: 02-2026 to 04-2026
+date: 03-2026
 published: true
 labels:
   - Playwright

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/project2.png
 title: "Temporal Driver Activity Detection"
-date: 10-2024 to 02-2025
+date: 02-2025
 published: true
 labels:
   - Python
