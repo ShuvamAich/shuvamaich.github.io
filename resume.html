@@ -234,16 +234,16 @@ layout: home
       </div>
 
       <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.references %}
-            {{ entry.name }}
-          <br>
-            {% if entry.reference and entry.reference.size > 0 %}
-              <em>{{ entry.reference }}</em>
-            {% endif %}
-            <br><br>
-          {% endfor %}
-        </p>
+        {% for entry in site.data.bio.references %}
+        <div class="row mb-3">
+          <div class="col-9">
+            <p class="m-0">
+              <b>{{ entry.name }}</b>
+            </p>  
+            <p class="mb-0">{{ entry.reference }}</p>
+          </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
     {% endif %}
