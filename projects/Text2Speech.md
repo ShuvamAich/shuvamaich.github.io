@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/project1.png
 title: "Text to Speech Diffusion Model"
-date: 02-2025
+sort_date: 2024-10-01
+display_date: 10-2024 to 02-2025
 published: true
 labels:
   - Diffusion
