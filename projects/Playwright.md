@@ -22,7 +22,7 @@ Explore the different branches to find various Playwright projects and experimen
 
 - Heroku MFA automation Branch: Automate-MFA
 - Mailosaur Email Automation Branch: Automate-Mail
-- API AUtomation
+- API Automation Branch: Automate-API
 
 ### Next in Pipeline:
 
