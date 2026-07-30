@@ -50,12 +50,23 @@
     ],
     "work": [
       {
+        "company": "SAP SE",
+        "position": "Working Student",
+        "website": "",
+        "startDate": "2026-08-01",
+        "endDate": "Present",
+        "summary": "Backend Automation Engineer",
+        "highlights": [
+          "API Automation for Learning Systems"
+        ]
+      },
+      {
         "company": "Mercedes Benz Tech Innovation GmbH",
         "position": "Working Student",
         "website": "",
-        "startDate": "2024-09-01",
-        "endDate": "Present",
-        "summary": "Backend Developer and Automation Engineer",
+        "startDate": "2024-08-01",
+        "endDate": "2026-07-31",
+        "summary": "Automation Engineer",
         "highlights": [
           "UI and API Automation for Vehicle Booking System", 
           "Test data encryption using Crypto-JS",
